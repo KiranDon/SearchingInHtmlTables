@@ -1,16 +1,16 @@
 var inventors = [
-    { 'name': 'Einstein', birth: '1879', death: '1955' },
-    { 'name': 'Newton', birth: '1643', death: '1727' },
-    { 'name': 'Galilei', birth: '1564', death: '1642' },
-    { 'name': 'Curie', birth: '1867', death: '1934' },
-    { 'name': 'Kepler', birth: '1571', death: '1630' },
-    { 'name': 'Copernicus', birth: '1473', death: '1543' },
-    { 'name': 'Planck', birth: '1858', death: '1947' },
-    { 'name': 'Blodgett', birth: '1898', death: '1979' },
-    { 'name': 'Lovelace', birth: '1815', death: '1852' },
-    { 'name': 'Goode', birth: '1855', death: '1905' },
-    { 'name': 'Meitner', birth: '1878', death: '1968' },
-    { 'name': 'Hammarström', birth: '1829', death: '1909' }
+    { name: 'Einstein', birth: '1879', death: '1955' },
+    { name: 'Newton', birth: '1643', death: '1727' },
+    { name: 'Galilei', birth: '1564', death: '1642' },
+    { name: 'Curie', birth: '1867', death: '1934' },
+    { name: 'Kepler', birth: '1571', death: '1630' },
+    { name: 'Copernicus', birth: '1473', death: '1543' },
+    { name: 'Planck', birth: '1858', death: '1947' },
+    { name: 'Blodgett', birth: '1898', death: '1979' },
+    { name: 'Lovelace', birth: '1815', death: '1852' },
+    { name: 'Goode', birth: '1855', death: '1905' },
+    { name: 'Meitner', birth: '1878', death: '1968' },
+    { name: 'Hammarström', birth: '1829', death: '1909' }
 ];
  
 buildTable(inventors);
